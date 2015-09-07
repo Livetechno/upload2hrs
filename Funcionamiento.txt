@@ -1,0 +1,6 @@
+1º Crear una base de datos.
+2º Configurar class/database.php
+3º Subir app_upload2hrs.sql
+4º Y por ultimo... Subir todos los archivos.
+
+- Upload desarrollado en PHP Orientado a Objetos y Bootstrap. Upload son sistema de subida privada para que no sea visualizada.
